@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "MagicBookmark.md",
-        "_locales/he-IL/MagicBookmark.md"
+        "_locales/he-IL/MagicBookmark.md",
+        "bookmark-gif.gif.ts"
     ],
     "testFiles": [
         "test.ts"
