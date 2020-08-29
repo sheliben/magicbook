@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "MagicBookmark.md"
+        "MagicBookmark.md",
+        "_locales/he-IL/MagicBookmark.md"
     ],
     "testFiles": [
         "test.ts"
@@ -17,5 +18,16 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "open": 1,
+                    "whitelist": 0,
+                    "security_level": null
+                }
+            }
+        }
+    }
 }
