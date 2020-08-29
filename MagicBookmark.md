@@ -1,5 +1,5 @@
 # MagicBookmark
-# MagicBookmark
+
 ###@activities false
 ###@explicitHints true
 
@@ -7,9 +7,7 @@
 
 בפרויקט זה נכין  קוד לסמניית קסם שעוקבת אחרי הקריאה שלנו
 ![למשל](book-mark-set_2.jpg)
-
-הנה סרטון gif קצר להנחיות בנייה
-![הנחיות בנייה סמניית קסם](bookmark-gif.gif)
+![הנחיות בנייה- סמניית קסם](bookmark-gif.gif)
 ## Step 1 @fullscreen
 הכינו שלושה משתנים:
 משתנה  כוח מגנטי, משתנה ניקוד קריאה ומשתנה סיכום
